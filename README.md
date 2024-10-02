@@ -28,7 +28,7 @@ Run the program.
 ## Modify
 1. Change the program using what you learned so that it adds two numbers you enter.
 2. Try entered a non-numeric value. What happens? What kind of error is this (refer to our error types).
-    > your answer
+    > The program stops due to an error. It says it is ValueError. Out of the errors we know, it is runtime error because it happens during the runtime and it stops because of user impact rather than a programing error. 
 
 ## Make
 1. Add more lines of code to perform other math operations with the numbers you entered and print out the results. Try the following operators. 
@@ -44,10 +44,10 @@ Run the program.
 | Operator | Meaning |
 |  :---:    |   :---:   |  
 |   `+`    | Addition |
-|   `-`    | your answer |
-|   `*`    | your answer |
-|   `/`    | your answer |
-|   `//`    | your answer |
-|   `**`    | your answer |
-|   `%`    | your answer |
+|   `-`    | Subtraction |
+|   `*`    | Multiplication |
+|   `/`    | Division |
+|   `//`    | Dividing and rounding down |
+|   `**`    | Exponent |
+|   `%`    | The Reminder from Long Division |
 
